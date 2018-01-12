@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello world!</title>
+    <script
+            src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous"></script>
+    <script>
+        function callServer() {
+            $.ajax({
+                url: "/api/hello",
+                success: function( result ) {
+                    console.log(result);
+                    $("#result_p").html(result.text);
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+    <button onclick="callServer()">I want to say hello!</button>
+    <p id="result_p"></p>
+</body>
+</html>
