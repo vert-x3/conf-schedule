@@ -188,7 +188,7 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ### March 16 2017 - Meet{cast} & Codemotion meetup
 
-* [Reactive Internet of Things : the Vert.x way](https://www.meetup.com/Meet-cast/events/238084770/)
+* [Reactive Internet of Things : the Vert.x way](https://www.meetup.com/Meet-cast/events/238084770/) ([video](https://www.youtube.com/watch?v=1aJshgup4D4)/[slides](https://www.slideshare.net/paolopat/reactive-internet-of-thins-the-vertx-way))
 
 ### March 3-5 2017 - NFJS Tour Twin Cities Software Symposium
 
