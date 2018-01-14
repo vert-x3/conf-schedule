@@ -2,17 +2,23 @@
 
 Confs, jugs, anything related to Vert.x
 
+* [Upcoming Events](#upcoming-events)
+* [2018 Past Events](#2018-past-events)
+* [2017 Past Events](#2017-past-events)
+
 ## Post your next event!
 
-Feel free to modify this page to add your next talk about Vert.x. If you want you can post your slides & demos inside a new subfolder of `talks` named `yyyy-mm-dd-event_name`
+Submit a PR to add your next talk about Vert.x. If you want you can post your slides & demos inside a new subfolder of `talks` named `yyyy-mm-dd-event_name`
 
 ## Upcoming Events
 
-## Past Events
+## 2018 Past Events
 
 ### January 10 2018 - JUG Milano
 
 * [Vert.x :heart: OpenAPI](https://github.com/vert-x3/conf-schedule/tree/master/talks/2018-01-10-vertx-loves-openapi)
+
+## 2017 Past Events
 
 ### December 12 2017 - Paris JUG
 
