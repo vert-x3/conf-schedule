@@ -8,7 +8,9 @@ Confs, jugs, anything related to Vert.x
 
 ## Post your next event!
 
-Submit a PR to add your next talk about Vert.x. If you want you can post your slides & demos inside a new subfolder of `talks` named `yyyy-mm-dd-event_name`
+Submit a PR to add your next talk about Vert.x.
+
+If you want you can post your slides & demos inside a new subfolder of `talks` named `yyyy-mm-dd-event_name`
 
 ## Upcoming Events
 

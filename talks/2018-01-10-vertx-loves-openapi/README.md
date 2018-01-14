@@ -1,5 +1,11 @@
 # Vert.x :heart: OpenAPI
 
+Event Link: http://www.jugmilano.it/meeting-97.html
+
+Where: Milan
+
+Date: January 10 2018
+
 ## Slides
 
 You can find slides inside `talk` folder. To run the slides execute:
