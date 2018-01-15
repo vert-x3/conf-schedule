@@ -14,6 +14,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ## Upcoming Events
 
+### January 24 2018 - /dev/070 meetup (The Hague NL)
+
+* [Bringing order to the chaos with Eclipse Vert.x](https://www.meetup.com/dev-070/events/245461156/)
+
 ## 2018 Past Events
 
 ### January 10 2018 - JUG Milano
