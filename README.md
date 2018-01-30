@@ -14,6 +14,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ## Upcoming Events
 
+### April 19-20 2018 - Lyon, France
+
+* [Démystifier le réactif et l'orchestration de services avec Vert.x, Kubernetes et Kotlin](https://mixitconf.org/en/2018/demystifier-le-reactif-et-l-orchestration-de-services-avec-vert-x-kubernetes-et-kotlin) by Julien Ponge
+
 ## 2018 Past Events
 
 ### January 24 2018 - /dev/070 meetup (The Hague NL)
