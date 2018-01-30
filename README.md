@@ -14,9 +14,16 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ## Upcoming Events
 
+### June 4th - 6th - Building IoT (Cologne, Germany)
+* Elastic IoT-architectures using Vert.x and Kubernetes 
+
 ### April 19-20 2018 - Lyon, France
 
 * [Démystifier le réactif et l'orchestration de services avec Vert.x, Kubernetes et Kotlin](https://mixitconf.org/en/2018/demystifier-le-reactif-et-l-orchestration-de-services-avec-vert-x-kubernetes-et-kotlin) by Julien Ponge
+
+### April 16th - 17th - ReactSphere (Krakow, Poland)
+
+*  A reactive architecture based on Vert.x and Kubernetes
 
 ## 2018 Past Events
 
@@ -43,6 +50,9 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 - [Better performances on the server side with HTTP/2](https://2017.codemotion.es/en/agenda.html#5649626120060928/5166851730440192) with Thomas Segismont
 - [Streaming Data Workshop](https://2017.codemotion.es/en/agenda.html#5693168230072320/5176901953912832) with  Galder Zamarreño, Katia Aresti and Thomas Segismont
+
+### November 23 2017 - JUG Hessen
+* [Vert.x. Mit dem EventBus und Kubernetes zu hochperformanten Anwendungen](https://www.micromata.de/blog/vert-x-eventbus-kubernetes/)
 
 ### November 23 2017 - MadridJUG
 
@@ -126,6 +136,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 * [Going Reactive with Vert.x](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=burrsutter)
 * [The reactive landscape](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=cescoffier&utm_content=buffercde4a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+### May 30th - 31st - ScalaDays Copenhagen
+
+* [Vert.x goes Scala (Video)](https://www.youtube.com/watch?v=6D-CS4f68JI) 
+
 ### May 19-21 2017 - NFJS One Star Software Symposium: Dallas
 
 * [Introduction to Vert.x](https://nofluffjuststuff.com/conference/dallas/2017/05/schedule)
@@ -183,6 +197,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 * [Microservices réactifs avec Eclipse Vert.x and Kubernetes](http://cfp.devoxx.fr/2017/talk/UQK-6164/Microservices_reactifs_avec_Eclipse_Vert.x_and_Kubernetes) - ([video](https://www.youtube.com/watch?v=ApGNp4uHKdY&t=76s))
 * [Applications réactives avec Eclipse Vert.x](http://cfp.devoxx.fr/2017/talk/XWN-6014/Applications_reactives_avec_Eclipse_Vert.x) ([video](https://www.youtube.com/watch?v=ZkWsilpiSqw&t=692s) / [slides](https://speakerdeck.com/jponge/applications-reactives-avec-eclipse-vert-dot-x))
 
+### JavaLand (March 28th - 30th)
+
+[DDD and reactivce frameworks](https://www.slideshare.net/codepitbull/ddd-and-reactive-frameworks)
+
 ### CloudNativeCon + KubeCon Europe 2017 (March 29 - March 30)
 
 [Ops for Developers - Monitor Your Java Application with Prometheus](https://cloudnativeeu2017.sched.com/event/9Tca/ops-for-developers-monitor-your-java-application-with-prometheus-i-alexander-schwartz-msg-systems-ag)
@@ -206,6 +224,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 * Modern app programming with RxJava and Vert.x (http://reactsphere.org) ([video](https://youtu.be/XMJYNhuSKbY) / [slides](https://fr.slideshare.net/ThomasSegismont/modern-app-programming-with-rxjava-and-eclipse-vertx))
 
+### February 22nd - JUG Nürnberg
+
+* [Reaktive Anwendungen mit Vert.x und Scala](https://www.meetup.com/de-DE/JUG-Nurnberg/events/236870064/)
+
 ### February 8 2017 - SnowCamp (Grenoble)
 
 * Reactive distributed app with Vert.x
@@ -215,6 +237,9 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 * Modern app programming with RxJava and Vert.x
 * Reactive distributed app with Vert.x
 * The reactive landscape
+
+### January 19th - Reactive Meetup Hamburg
+* [Building reactive applications with Vert.x and Scala](https://www.meetup.com/de-DE/Reactive-Systems-Hamburg/events/235988328/)
 
 ## License
 
