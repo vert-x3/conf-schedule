@@ -31,6 +31,12 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 * [Bringing order to the chaos with Eclipse Vert.x](https://www.meetup.com/dev-070/events/245461156/)
 
+### January 23 2018 - Atlanta Microservices Day (The Garage, Atlanta, Georgia, USA)
+
+* [Red Hat OpenShift Application Runtimes (RHOAR) Shootout](http://bit.ly/2DP5J4h)
+  * Full video of conference day at the link
+  * Source code available [HERE](https://github.com/rhoar-shootout/rhoar-vertx)
+
 ### January 10 2018 - JUG Milano
 
 * [Vert.x :heart: OpenAPI](https://github.com/vert-x3/conf-schedule/tree/master/talks/2018-01-10-vertx-loves-openapi)
