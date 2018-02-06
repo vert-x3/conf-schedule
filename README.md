@@ -25,6 +25,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 *  A reactive architecture based on Vert.x and Kubernetes
 
+### February 21st - PerfUG (Paris, France)
+
+*  [Introduction à Vert.x et retour d'expérience](https://www.meetup.com/PerfUG/events/244682730/?_locale=fr-FR)
+
 ## 2018 Past Events
 
 ### January 24 2018 - /dev/070 meetup (The Hague NL)
