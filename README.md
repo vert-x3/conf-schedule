@@ -29,6 +29,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 * [Soirée applications réactives avec Eclipse Vert.x](https://mailchi.mp/99ab4d1f1107/soire-application-ractives-avec-eclipse-vertx-et-assemble-gnrale)
 
+### March 6 - LOR'n'JUG (Nancy, France)
+
+* [Soirée applications réactives avec Eclipse Vert.x](http://yajug.lu/session/application-reactive-eclipse-vertx/?platform=hootsuite)
+
 ### February 21st - PerfUG (Paris, France)
 
 *  [Introduction à Vert.x et retour d'expérience](https://www.meetup.com/PerfUG/events/244682730/?_locale=fr-FR)
