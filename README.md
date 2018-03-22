@@ -25,6 +25,8 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 *  A reactive architecture based on Vert.x and Kubernetes
 
+## 2018 Past Events
+
 ### March 7 - LOR'n'JUG (Nancy, France)
 
 * [Soirée applications réactives avec Eclipse Vert.x](https://mailchi.mp/99ab4d1f1107/soire-application-ractives-avec-eclipse-vertx-et-assemble-gnrale)
@@ -36,8 +38,6 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 ### February 21st - PerfUG (Paris, France)
 
 *  [Introduction à Vert.x et retour d'expérience](https://www.meetup.com/PerfUG/events/244682730/?_locale=fr-FR)
-
-## 2018 Past Events
 
 ### January 24 2018 - /dev/070 meetup (The Hague NL)
 
