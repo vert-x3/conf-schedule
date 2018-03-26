@@ -17,9 +17,21 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 ### June 4th - 6th - Building IoT (Cologne, Germany)
 * Elastic IoT-architectures using Vert.x and Kubernetes 
 
+### May 16th - 18th - RivieraDev:JUDCon (Nice, France)
+
+* [Bring order to the chaos with Eclipse Vert.x](http://www.rivieradev.com/)
+
+### May 8th - 9th - Codemotion Amsterdam (Amsterdam, The Netherlands)
+
+* [Bring order to the chaos](https://amsterdam2018.codemotionworld.com/)
+
 ### April 19-20 2018 - Lyon, France
 
 * [Démystifier le réactif et l'orchestration de services avec Vert.x, Kubernetes et Kotlin](https://mixitconf.org/en/2018/demystifier-le-reactif-et-l-orchestration-de-services-avec-vert-x-kubernetes-et-kotlin) by Julien Ponge
+
+### April 17th - 18th - With The Best (Online)
+
+* [Going full stack (react)ive](http://java.withthebest.com/)
 
 ### April 16th - 17th - ReactSphere (Krakow, Poland)
 
@@ -28,6 +40,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 ### April 7th - JUG Padova (Padova, Italy)
 
 * [Design Driven Web APIs with Vert.x](http://www.jugevents.org/jugevents/event/78429)
+
+### March 27th - Reactive Amsterdam Meetup (Amsterdam, The Netherlands)
+
+* [Turn Reactive into Crypto Gold](https://www.meetup.com/Reactive-Amsterdam/events/248463852/)
 
 ## 2018 Past Events
 
