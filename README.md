@@ -25,6 +25,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 *  A reactive architecture based on Vert.x and Kubernetes
 
+### April 7th - JUG Padova (Padova, Italy)
+
+* [Design Driven Web APIs with Vert.x](http://www.jugevents.org/jugevents/event/78429)
+
 ## 2018 Past Events
 
 ### March 7 - LOR'n'JUG (Nancy, France)
