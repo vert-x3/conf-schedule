@@ -60,6 +60,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 * [Reactive programming with Vert.x](https://jpoint.ru/en/talks/1qusgjqnyosams2ga4yyom/)
 
+### March 28th - 30th - Breizh Camp (Rennes, France)
+
+* Démystifier le réactif et l'orchestration de services avec Vert.x, Kubernetes et Kotlin
+
 ### March 27th - Reactive Amsterdam Meetup (Amsterdam, The Netherlands)
 
 * [Turn Reactive into Crypto Gold](https://www.meetup.com/Reactive-Amsterdam/events/248463852/)
