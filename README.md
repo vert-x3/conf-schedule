@@ -25,9 +25,16 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 * [Bring order to the chaos](https://amsterdam2018.codemotionworld.com/)
 
-### April 19-20 2018 - Lyon, France
+### April 19-20 2018 - MIXIT (Lyon, France)
 
 * [Démystifier le réactif et l'orchestration de services avec Vert.x, Kubernetes et Kotlin](https://mixitconf.org/en/2018/demystifier-le-reactif-et-l-orchestration-de-services-avec-vert-x-kubernetes-et-kotlin) by Julien Ponge
+
+### April 18-20 2018 - Devoxx France (Paris, France)
+
+* [Applications et librairies réactives avec RX Java 2 ](https://cfp.devoxx.fr/2018/talk/COM-8600/Applications_et_librairies_reactives_avec_RX_Java_2)
+* [Real-Time In-Memory Analytics Workshop](https://cfp.devoxx.fr/2018/talk/HJC-7010/Real-Time_In-Memory_Analytics_Workshop)
+* [Introduction to Data Streaming](https://cfp.devoxx.fr/2018/talk/XSS-6450/Introduction_to_Data_Streaming)
+* [Chaos Engineering – L’art de tout casser](https://cfp.devoxx.fr/2018/talk/QKX-8185/Chaos_Engineering_–_L’art_de_tout_casser)
 
 ### April 17th - 18th - With The Best (Online)
 
