@@ -19,7 +19,9 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ### May 16th - 18th - RivieraDev:JUDCon (Nice, France)
 
-* [Bring order to the chaos with Eclipse Vert.x](http://www.rivieradev.com/)
+* [Bringing order to the chaos with Eclipse Vert.x](http://rivieradev.fr/session/368)
+* [Applications et librairies réactives avec RxJava 2](http://rivieradev.fr/session/341)
+* [Reactive cuisine!](http://rivieradev.fr/session/336)
 
 ### May 8th - 9th - Codemotion Amsterdam (Amsterdam, The Netherlands)
 
