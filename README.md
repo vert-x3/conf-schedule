@@ -37,6 +37,8 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 *  A reactive architecture based on Vert.x and Kubernetes
 
+## 2018 Past Events
+
 ### April 7th - JUG Padova (Padova, Italy)
 
 * [Design Driven Web APIs with Vert.x](http://www.jugevents.org/jugevents/event/78429)
@@ -48,8 +50,6 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 ### March 27th - Reactive Amsterdam Meetup (Amsterdam, The Netherlands)
 
 * [Turn Reactive into Crypto Gold](https://www.meetup.com/Reactive-Amsterdam/events/248463852/)
-
-## 2018 Past Events
 
 ### March 7 - LOR'n'JUG (Nancy, France)
 
