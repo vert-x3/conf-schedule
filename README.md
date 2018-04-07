@@ -23,6 +23,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 * [Applications et librairies réactives avec RxJava 2](http://rivieradev.fr/session/341)
 * [Reactive cuisine!](http://rivieradev.fr/session/336)
 
+### May 9th - 11th - QCon São Paolo (São Paolo, Brazil)
+
+* [Modern app programming with RxJava and Eclipse Vert.x](https://qconsp.com/sp2018/speaker/thomas-segismont)
+
 ### May 8th - 9th - Codemotion Amsterdam (Amsterdam, The Netherlands)
 
 * [Bring order to the chaos](https://amsterdam2018.codemotionworld.com/)
