@@ -31,6 +31,14 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 * [Bring order to the chaos](https://amsterdam2018.codemotionworld.com/)
 
+### April 26 - ToulouseJUG (Toulouse, France)
+
+* [Soirée applications réactives avec Eclipse Vert.x](http://www.toulousejug.org/)
+
+### April 25 - BordeauxJUG (Bordeaux, France)
+
+* [Soirée applications réactives avec Eclipse Vert.x](http://bordeauxjug.org/)
+
 ### April 19-20 2018 - MIXIT (Lyon, France)
 
 * [Démystifier le réactif et l'orchestration de services avec Vert.x, Kubernetes et Kotlin](https://mixitconf.org/en/2018/demystifier-le-reactif-et-l-orchestration-de-services-avec-vert-x-kubernetes-et-kotlin) by Julien Ponge
