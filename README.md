@@ -56,6 +56,7 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ### April 17th - 18th - With The Best (Online)
 
+* [Reactive Microservices With Vert.x & Kubernetes](http://java.withthebest.com)
 * [Going full stack (react)ive](http://java.withthebest.com/)
 
 ### April 16th - 17th - ReactSphere (Krakow, Poland)
