@@ -14,6 +14,9 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ## Upcoming Events
 
+### June 25th - 29th - QCon New York
+* Reactive Microservices and DevOps Pipelines with Red Hat OpenShift Application Runtimes (Deven Phillips @InfoSec812)
+
 ### June 4th - 6th - Building IoT (Cologne, Germany)
 * Elastic IoT-architectures using Vert.x and Kubernetes 
 
