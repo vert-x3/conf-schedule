@@ -23,11 +23,18 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 * [The Reactive Cuisine](https://www.eclipsecon.org/france2018/session/reactive-cuisine)
 * [Reactive Systems with Eclipse Vert.x and Kubernetes](https://www.eclipsecon.org/france2018/session/reactive-systems-eclipse-vertx-and-kubernetes)
 
+### June 7th - GOTO Nights (Amsterdam, The Netherlands)
+* [Key concepts of Eclipse Vert.x | Concurrency in Kotlin](https://www.meetup.com/GOTO-Nights-Amsterdam/events/248885105/)
+
+
 ## 2018 Past Events
 
 ### June 4th - 6th - Building IoT (Cologne, Germany)
 
 * Elastic IoT-architectures using Vert.x and Kubernetes 
+
+### June 1st - JSNation (Amsterdam, The Netherlands)
+* Legalize JavaScript for the Enterprise Now! 
 
 ### May 16th - 18th - RivieraDev:JUDCon (Nice, France)
 
