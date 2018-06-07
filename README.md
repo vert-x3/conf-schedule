@@ -23,6 +23,8 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 * [The Reactive Cuisine](https://www.eclipsecon.org/france2018/session/reactive-cuisine)
 * [Reactive Systems with Eclipse Vert.x and Kubernetes](https://www.eclipsecon.org/france2018/session/reactive-systems-eclipse-vertx-and-kubernetes)
 
+## 2018 Past Events
+
 ### June 4th - 6th - Building IoT (Cologne, Germany)
 
 * Elastic IoT-architectures using Vert.x and Kubernetes 
@@ -72,8 +74,6 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 ### April 16th - 17th - ReactSphere (Krakow, Poland)
 
 *  A reactive architecture based on Vert.x and Kubernetes
-
-## 2018 Past Events
 
 ### April 7th - JUG Padova (Padova, Italy)
 
