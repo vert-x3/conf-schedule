@@ -15,9 +15,16 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 ## Upcoming Events
 
 ### June 25th - 29th - QCon New York
+
 * Reactive Microservices and DevOps Pipelines with Red Hat OpenShift Application Runtimes (Deven Phillips @InfoSec812)
 
+### June 13th - 14th - EclipseCon (Toulouse, France)
+
+* [The Reactive Cuisine](https://www.eclipsecon.org/france2018/session/reactive-cuisine)
+* [Reactive Systems with Eclipse Vert.x and Kubernetes](https://www.eclipsecon.org/france2018/session/reactive-systems-eclipse-vertx-and-kubernetes)
+
 ### June 4th - 6th - Building IoT (Cologne, Germany)
+
 * Elastic IoT-architectures using Vert.x and Kubernetes 
 
 ### May 16th - 18th - RivieraDev:JUDCon (Nice, France)
