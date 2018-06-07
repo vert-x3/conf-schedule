@@ -51,6 +51,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 * [Soirée applications réactives avec Eclipse Vert.x](http://bordeauxjug.org/)
 
+### April 24-27 - Great Indian Developer Summit
+
+* [Programming with Vert.x](http://www.developermarch.com/developersummit/GIDS2018/session.html?insert=Venkats7) by Venkat Subramaniam
+
 ### April 23 - Meetup Brest (Brest, France)
 
 * [Vert.x et micro-services & Terraform et Ansible pour déploiement dans le cloud](https://www.meetup.com/fr-FR/FinistDevs/events/249629996/)
