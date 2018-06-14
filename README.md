@@ -19,7 +19,7 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 * Reactive Microservices and DevOps Pipelines with Red Hat OpenShift Application Runtimes (Deven Phillips @InfoSec812)
 
 ### June 14th - Bydgoszcz JUG (Bydgoszcz, Poland)
-* [Non-blocking threading model impact on Application Performance](http://bydgoszcz.jug.pl/)
+* [Non-blocking threading model impact on Application Performance](https://www.meetup.com/BydgoszczJUG/events/251051097/)
 
 ### June 13th - 14th - EclipseCon (Toulouse, France)
 
