@@ -47,7 +47,7 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ### May 9th - 11th - QCon São Paolo (São Paolo, Brazil)
 
-* [Modern app programming with RxJava and Eclipse Vert.x](https://qconsp.com/sp2018/speaker/thomas-segismont)
+* [Modern app programming with RxJava and Eclipse Vert.x](https://qconsp.com/sp2018/speaker/thomas-segismont) ([slides](https://speakerdeck.com/tsegismont/qconsp-2018-modern-app-programming-with-eclipse-vert-dot-x-and-rxjava))
 
 ### May 8th - 9th - Codemotion Amsterdam (Amsterdam, The Netherlands)
 
@@ -55,11 +55,11 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ### April 26 - ToulouseJUG (Toulouse, France)
 
-* [Soirée applications réactives avec Eclipse Vert.x](http://www.toulousejug.org/)
+* [Soirée applications réactives avec Eclipse Vert.x](http://www.toulousejug.org/) ([slides](https://speakerdeck.com/tsegismont/reactive-applications-with-eclipse-vert-dot-x))
 
 ### April 25 - BordeauxJUG (Bordeaux, France)
 
-* [Soirée applications réactives avec Eclipse Vert.x](http://bordeauxjug.org/)
+* [Soirée applications réactives avec Eclipse Vert.x](http://bordeauxjug.org/) ([slides](https://speakerdeck.com/tsegismont/reactive-applications-with-eclipse-vert-dot-x))
 
 ### April 24-27 - Great Indian Developer Summit
 
