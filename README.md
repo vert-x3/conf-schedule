@@ -27,6 +27,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ## 2018 Past Events
 
+### June 26th - Geneva JUG (Geneva, Switzerland)
+
+* [Eclipse Vert.x - a toolkit to enjoy the Cloud & Container world](https://www.eventbrite.fr/e/billets-vertx-a-reactive-toolkit-to-enjoy-the-cloud-containers-world-47180536254?ref=ebtn#)
+
 ### June 13th-14th - EclipseCon France (Toulouse, France)
 
 * [The Reactive Cuisine](https://www.eclipsecon.org/france2018/session/reactive-cuisine)
