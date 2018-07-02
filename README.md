@@ -21,16 +21,23 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 ### June 14th - Bydgoszcz JUG (Bydgoszcz, Poland)
 * [Non-blocking threading model impact on Application Performance](https://www.meetup.com/BydgoszczJUG/events/251051097/)
 
-### June 13th - 14th - EclipseCon (Toulouse, France)
-
-* [The Reactive Cuisine](https://www.eclipsecon.org/france2018/session/reactive-cuisine)
-* [Reactive Systems with Eclipse Vert.x and Kubernetes](https://www.eclipsecon.org/france2018/session/reactive-systems-eclipse-vertx-and-kubernetes)
-
 ### June 7th - GOTO Nights (Amsterdam, The Netherlands)
 * [Key concepts of Eclipse Vert.x | Concurrency in Kotlin](https://www.meetup.com/GOTO-Nights-Amsterdam/events/248885105/)
 
 
 ## 2018 Past Events
+
+### June 26th - Geneva JUG (Geneva, Switzerland)
+
+* [Eclipse Vert.x - a toolkit to enjoy the Cloud & Container world](https://www.eventbrite.fr/e/billets-vertx-a-reactive-toolkit-to-enjoy-the-cloud-containers-world-47180536254?ref=ebtn#)
+
+### June 13th-14th - EclipseCon France (Toulouse, France)
+
+* [The Reactive Cuisine](https://www.eclipsecon.org/france2018/session/reactive-cuisine)
+* [The reactive landscape (ignote talk)](https://www.eclipsecon.org/france2018/session/reactive-landscape)
+* [Reactive Systems with Eclipse Vert.x and Kubernetes](https://www.eclipsecon.org/france2018/session/reactive-systems-eclipse-vertx-and-kubernetes)
+* [Microservice Data Patterns - Event Sourcing and CQRS](https://www.eclipsecon.org/france2018/session/microservices-data-patterns-cqrs-event-sourcing)
+
 
 ### June 4th - 6th - Building IoT (Cologne, Germany)
 
@@ -38,6 +45,11 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ### June 1st - JSNation (Amsterdam, The Netherlands)
 * Legalize JavaScript for the Enterprise Now! 
+
+### June 1st - Voxxed Day Singagopore (Singapore, Singapore)
+
+* Opening keynote
+* Building reactive systems with Vert.x and Kubernetes
 
 ### May 16th - 18th - RivieraDev:JUDCon (Nice, France)
 
@@ -52,6 +64,12 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 ### May 8th - 9th - Codemotion Amsterdam (Amsterdam, The Netherlands)
 
 * [Bring order to the chaos](https://amsterdam2018.codemotionworld.com/)
+
+### May 5th-8th - Red Hat Summit (San Francisco, USA)
+
+* [The future is open (hybrid cloud)](https://www.redhat.com/en/about/videos/summit-2018-keynote-future-open-hybrid-cloud-paul-cormier) 
+* [Reactive data pipelines on OpenShift with Eclipse Vert.x](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154486)
+* [Microservices data patterns: CQRS & event sourcing](https://agenda.summit.redhat.com/SessionDetail.aspx?id=154549)
 
 ### April 26 - ToulouseJUG (Toulouse, France)
 
@@ -116,6 +134,15 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 ### February 21st - PerfUG (Paris, France)
 
 *  [Introduction à Vert.x et retour d'expérience](https://www.meetup.com/PerfUG/events/244682730/?_locale=fr-FR)
+
+### February 5th-7th - JFokus (Stockholm, Sweden)
+
+* [The Reactive Landscape](https://www.jfokus.se/jfokus/talks.jsp#Thereactivelandscape)
+* [Real-time Streaming Data Deep Dive](https://www.jfokus.se/jfokus/talks.jsp#Real-timeStreamingDa)
+
+### January 25 2018 - SnowCamp (Grenoble, France)
+
+* [Reactive Cuisine](https://snowcamp2018.sched.com/event/DQIh/reactive-cuisine)
 
 ### January 24 2018 - /dev/070 meetup (The Hague NL)
 
