@@ -14,6 +14,30 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 ## Upcoming Events
 
+### November 9th - 11th - Northern Virginia Software Symposium (Reston, VA)
+
+* [Reactive Applications with Vert.x](https://nofluffjuststuff.com/conference/reston/2018/11/session?id=42613)
+
+### November 2nd - 4th - Great Lakes Software Symposium (Chicago, IL)
+
+* [Programming with Vert.x](https://nofluffjuststuff.com/conference/chicago/2018/11/session?id=42316)
+
+### October 12th - 13th - Twin Cities Software Symposium (Minneapolis, MN)
+
+* [Introduction to Vert.x](https://nofluffjuststuff.com/conference/minneapolis/2018/10/session?id=41927)
+
+### September 28th - 30th - New England Software Symposium (Boston, MA)
+
+* [Reactive Applications with Vert.x](https://nofluffjuststuff.com/conference/boston/2018/09/session?id=41789)
+
+### August 3rd - 4th - Central Iowa Software Symposium (Des Moines, IA)
+
+* [Introduction to Vert.x](https://nofluffjuststuff.com/conference/des_moines/2018/08/session?id=41840)
+
+### July 27th - 29th - Lone Star Software Symposium (Austin, TX)
+
+* [Reactive Applications with Vert.x](https://nofluffjuststuff.com/conference/austin/2018/07/session?id=41628)
+
 ### June 25th - 29th - QCon New York
 
 * Reactive Microservices and DevOps Pipelines with Red Hat OpenShift Application Runtimes (Deven Phillips @InfoSec812)
@@ -26,6 +50,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 
 ## 2018 Past Events
+
+### July 17th - 20th - ÜberConf (Denver, CO)
+
+* [Reactive Applications with Vert.x](https://uberconf.com/conference/denver/2018/07/session?id=42667)
 
 ### June 26th - Geneva JUG (Geneva, Switzerland)
 
