@@ -22,6 +22,10 @@ If you want you can post your slides & demos inside a new subfolder of `talks` n
 
 * [Programming with Vert.x](https://nofluffjuststuff.com/conference/chicago/2018/11/session?id=42316)
 
+### October 22th - 25th -  Moscone Center (San Francisco, CA)
+
+* [Yes, JavaScript is faster than Java (when you use GraalVM)](https://oracle.rainfocus.com/widget/oracle/oow18/catalogcodeone18?search=%22Paulo%20Lopes%22)
+
 ### October 12th - 13th - Twin Cities Software Symposium (Minneapolis, MN)
 
 * [Introduction to Vert.x](https://nofluffjuststuff.com/conference/minneapolis/2018/10/session?id=41927)
